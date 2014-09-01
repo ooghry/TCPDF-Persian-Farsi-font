@@ -1,4 +1,5 @@
 TCPDF-Persian-Farsi-font
 ========================
 
-4 popular Persian/Farsi font for use with TCPDF
+i'm not create this font,B-Series font compatible with TCPDF when use Persian/Farsi character,IR-Series font compatible with TCPDF when use English character.
+i merge B with IR fonts :)
